@@ -11,7 +11,9 @@
     "type": "git",
     "url": "git+https://github.com/song940/chatgpt-api.js.git"
   },
-  "keywords": ["chatgpt"],
+  "keywords": [
+    "chatgpt"
+  ],
   "author": "Lsong <song940@gmail.com>",
   "license": "ISC",
   "bugs": {
@@ -19,9 +21,9 @@
   },
   "homepage": "https://github.com/song940/chatgpt-api.js#readme",
   "dependencies": {
-    "esbuild": "^0.15.18",
     "eventsource-parser": "^0.0.5",
     "expiry-map": "^2.0.0",
+    "log-update": "^5.0.1",
     "uuid": "^9.0.0"
   }
 }
