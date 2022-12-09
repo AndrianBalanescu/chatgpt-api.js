@@ -1,6 +1,6 @@
 {
   "name": "@song940/chatgpt-api",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "type": "module",
   "description": "ChatGPT API",
   "main": "index.js",
@@ -15,7 +15,7 @@
     "chatgpt"
   ],
   "author": "Lsong <song940@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/song940/chatgpt-api.js/issues"
   },

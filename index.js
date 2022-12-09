@@ -1,6 +1,6 @@
 import ExpiryMap from 'expiry-map'
 import { v4 as uuidv4 } from "uuid";
-import { fetchSSE } from "./fetch-sse.mjs";
+import { fetchSSE } from "./fetch-sse.js";
 
 const cache = new ExpiryMap(10 * 1000)
 const KEY_ACCESS_TOKEN = "accessToken";
